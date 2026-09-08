@@ -36,4 +36,4 @@ More project details will be added soon.
 ## Contact
 
 - GitHub: @raihanhisbullah
-- LinkedIn: Coming soon
+- LinkedIn: Raihan Hisbullah
