@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Raihan Hisbullah
 
-<!--
-**Raihanhisbullah/raihanhisbullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fresh Graduate in Informatics with an interest in Backend Development and Software Engineering.
 
-Here are some ideas to get you started:
+I have experience developing web-based information systems using NestJS, TypeScript, PostgreSQL, REST API, and role-based authentication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- TypeScript
+- JavaScript
+- NestJS
+- Node.js
+- PostgreSQL
+- TypeORM
+- REST API
+- JWT Authentication
+- Git
+- Postman
+- Swagger
+
+## Currently Learning
+
+- Backend Architecture
+- Database Optimization
+- API Security
+- Docker
+- Software Testing
+
+## Projects
+
+### SYNAPSE — Academic Information System
+Web-based academic information system developed using NestJS, TypeScript, PostgreSQL, and REST API.
+
+More project details will be added soon.
+
+## Contact
+
+- GitHub: @raihanhisbullah
+- LinkedIn: Coming soon
